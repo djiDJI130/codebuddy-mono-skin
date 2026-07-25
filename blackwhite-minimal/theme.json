@@ -1,0 +1,13 @@
+{
+  "schemaVersion": 1,
+  "id": "blackwhite-minimal",
+  "name": "黑白简约",
+  "hero": "hero.webp",
+  "appearance": "light",
+  "colors": {
+    "accent": "#1a1a1a",
+    "secondary": "#6b6b6b",
+    "surface": "#fcfcfc",
+    "text": "#0d0d0d"
+  }
+}
