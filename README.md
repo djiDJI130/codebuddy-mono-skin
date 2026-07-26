@@ -2,6 +2,8 @@
 
 > 极简黑白配色 · 基于 [HeiGe Codex Skin Studio](https://github.com/HeiGeAi/heige-codex-skin-studio)
 
+![效果预览](https://github.com/djiDJI130/codebuddy-mono-skin/raw/main/previews/hero-original.png)
+
 ## ⬇️ 直接下载
 
 👉 **[📦 下载完整包 v1.0.0 (42MB)](https://github.com/djiDJI130/codebuddy-mono-skin/releases/download/v1.0.0/heige-codex-skin-studio.zip)**
