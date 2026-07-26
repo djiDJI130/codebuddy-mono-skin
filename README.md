@@ -2,7 +2,7 @@
 
 > 让你的 WorkBuddy 一秒变高级 —— 极简黑白美学 · 零侵入注入 · 一套包含 12 套主题
 
-[![Release](https://img.shields.io/badge/Release-v1.0.0-black?style=flat-square)](https://github.com/djiDJI130/codebuddy-mono-skin/releases/tag/v1.0.0)
+[![Release](https://img.shields.io/badge/Release-v1.0.0-black?style=flat-square)](https://github.com/djiDJI130/workbuddy-mono-skin/releases/tag/v1.0.0)
 [![License](https://img.shields.io/badge/License-MIT-333?style=flat-square)](LICENSE)
 [![Platform](https://img.shields.io/badge/Platform-Windows-666?style=flat-square)]()
 
@@ -10,7 +10,7 @@
 
 ## ⬇️ 直接下载
 
-👉 **[📦 下载完整包 v1.0.0 (42MB)](https://github.com/djiDJI130/codebuddy-mono-skin/releases/download/v1.0.0/heige-codex-skin-studio.zip)**
+👉 **[📦 下载完整包 v1.0.0 (42MB)](https://github.com/djiDJI130/workbuddy-mono-skin/releases/download/v1.0.0/heige-codex-skin-studio.zip)**
 
 解压双击 `一键安装黑白简约皮肤.bat`，30 秒搞定。
 
@@ -20,17 +20,17 @@
 
 ### 🖥️ 黑白皮肤界面
 
-![皮肤界面效果](https://github.com/djiDJI130/codebuddy-mono-skin/raw/main/previews/ui-mockup-1.png)
+![皮肤界面效果](https://github.com/djiDJI130/workbuddy-mono-skin/raw/main/previews/ui-mockup-1.png)
 
 > 左侧深色边栏 · 半透明毛玻璃 · 右侧水墨几何背景 · 干净利落
 
 ### ⚡ 原生 vs 黑白
 
-![换肤前后对比](https://github.com/djiDJI130/codebuddy-mono-skin/raw/main/previews/compare-before-after.png)
+![换肤前后对比](https://github.com/djiDJI130/workbuddy-mono-skin/raw/main/previews/compare-before-after.png)
 
 ### 🎯 功能一览
 
-![功能展示](https://github.com/djiDJI130/codebuddy-mono-skin/raw/main/previews/features-showcase.png)
+![功能展示](https://github.com/djiDJI130/workbuddy-mono-skin/raw/main/previews/features-showcase.png)
 
 ---
 
@@ -40,27 +40,27 @@
 
 ### Miku 488137（默认）
 
-![Miku](https://github.com/djiDJI130/codebuddy-mono-skin/raw/main/previews/themes/miku-studio.webp)
+![Miku](https://github.com/djiDJI130/workbuddy-mono-skin/raw/main/previews/themes/miku-studio.webp)
 
 ### 原神 · 星夜 & 破晓
 
-![原神1](https://github.com/djiDJI130/codebuddy-mono-skin/raw/main/previews/themes/genshin-impact-codex-ui-1.webp)
-![原神2](https://github.com/djiDJI130/codebuddy-mono-skin/raw/main/previews/themes/genshin-impact-codex-ui-2.webp)
+![原神1](https://github.com/djiDJI130/workbuddy-mono-skin/raw/main/previews/themes/genshin-impact-codex-ui-1.webp)
+![原神2](https://github.com/djiDJI130/workbuddy-mono-skin/raw/main/previews/themes/genshin-impact-codex-ui-2.webp)
 
 ### 鸣潮 · 潮汐 & 回声
 
-![鸣潮1](https://github.com/djiDJI130/codebuddy-mono-skin/raw/main/previews/themes/wuthering-waves-codex-ui-1.webp)
-![鸣潮2](https://github.com/djiDJI130/codebuddy-mono-skin/raw/main/previews/themes/wuthering-waves-codex-ui-2.webp)
+![鸣潮1](https://github.com/djiDJI130/workbuddy-mono-skin/raw/main/previews/themes/wuthering-waves-codex-ui-1.webp)
+![鸣潮2](https://github.com/djiDJI130/workbuddy-mono-skin/raw/main/previews/themes/wuthering-waves-codex-ui-2.webp)
 
 ### 火影忍者 · 火影 & 佐助
 
-![火影1](https://github.com/djiDJI130/codebuddy-mono-skin/raw/main/previews/themes/naruto-codex-ui-1.webp)
-![火影2](https://github.com/djiDJI130/codebuddy-mono-skin/raw/main/previews/themes/naruto-codex-ui-2.webp)
+![火影1](https://github.com/djiDJI130/workbuddy-mono-skin/raw/main/previews/themes/naruto-codex-ui-1.webp)
+![火影2](https://github.com/djiDJI130/workbuddy-mono-skin/raw/main/previews/themes/naruto-codex-ui-2.webp)
 
 ### 恋与深空 · 破晓 & 星夜
 
-![恋与深空1](https://github.com/djiDJI130/codebuddy-mono-skin/raw/main/previews/themes/love-and-deepspace-codex-ui-1.webp)
-![恋与深空2](https://github.com/djiDJI130/codebuddy-mono-skin/raw/main/previews/themes/love-and-deepspace-codex-ui-2.webp)
+![恋与深空1](https://github.com/djiDJI130/workbuddy-mono-skin/raw/main/previews/themes/love-and-deepspace-codex-ui-1.webp)
+![恋与深空2](https://github.com/djiDJI130/workbuddy-mono-skin/raw/main/previews/themes/love-and-deepspace-codex-ui-2.webp)
 
 ### 🐉 龙珠 · 筋斗云 & 超级赛亚人
 

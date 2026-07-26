@@ -1,7 +1,7 @@
 @echo off
 chcp 65001 >nul
 echo ===========================================
-echo   🖤 CodeBuddy 黑白简约皮肤 - 一键安装
+echo   🖤 WorkBuddy 黑白简约皮肤 - 一键安装
 echo ===========================================
 echo.
 
@@ -46,7 +46,7 @@ if exist "%HEIGE_DIR%\scripts\windows\apply.ps1" (
 
 echo.
 echo ===========================================
-echo   搞定！CodeBuddy 已换上新皮肤 🖤
+echo   搞定！WorkBuddy 已换上新皮肤 🖤
 echo   顶部菜单🎨可切换 · 打开「皮肤常驻」跨重启保留
 echo ===========================================
 pause
