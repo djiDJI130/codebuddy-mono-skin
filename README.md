@@ -2,7 +2,11 @@
 
 > 极简黑白配色 · 基于 [HeiGe Codex Skin Studio](https://github.com/HeiGeAi/heige-codex-skin-studio)
 
-![效果预览](https://github.com/djiDJI130/codebuddy-mono-skin/raw/main/previews/hero-original.png)
+## 📸 效果展示
+
+![UI 界面效果](https://github.com/djiDJI130/codebuddy-mono-skin/raw/main/previews/ui-mockup-1.png)
+
+> 左侧深色边栏 · 半透明毛玻璃对话气泡 · 右侧水墨几何背景
 
 ## ⬇️ 直接下载
 
