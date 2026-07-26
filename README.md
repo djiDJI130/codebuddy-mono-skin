@@ -1,6 +1,6 @@
-# 🖤 CodeBuddy 黑白简约皮肤
+# 🖤 WorkBuddy 黑白简约皮肤
 
-> 让你的 CodeBuddy 一秒变高级 —— 极简黑白美学 · 零侵入注入 · 一套包含 12 套主题
+> 让你的 WorkBuddy 一秒变高级 —— 极简黑白美学 · 零侵入注入 · 一套包含 12 套主题
 
 [![Release](https://img.shields.io/badge/Release-v1.0.0-black?style=flat-square)](https://github.com/djiDJI130/codebuddy-mono-skin/releases/tag/v1.0.0)
 [![License](https://img.shields.io/badge/License-MIT-333?style=flat-square)](LICENSE)
